@@ -1,0 +1,78 @@
+{
+  "820480342": {
+    "urls": {
+      "tap_az": "https://tap.az/elanlar/dasinmaz-emlak/menziller?keywords_source=typewritten&order=&q%5Buser_id%5D=&q%5Bcontact_id%5D=&q%5Bprice%5D%5B%5D=300&q%5Bprice%5D%5B%5D=500&p%5B740%5D=3724&p%5B994%5D=38046&p%5B747%5D=&p%5B737%5D%5B%5D=50&p%5B737%5D%5B%5D=&p%5B736%5D%5B%5D=2&p%5B736%5D%5B%5D=&q%5Bregion_id%5D=&q%5Bkeywords%5D=&q%5Bregion_id%5D=&q%5Bkeywords%5D=&q%5Bregion_id%5D=&q%5Bkeywords%5D=&q%5Bregion_id%5D=&q%5Bkeywords%5D=",
+      "bina_az": "https://bina.az/baki/kiraye/menziller?price_from=300&price_to=500&room_ids%5B%5D=1&room_ids%5B%5D=2&room_ids%5B%5D=3"
+    },
+    "filters": {
+      "title": [
+        "Xırdalan",
+        "Masazır",
+        "Sumqayıt",
+        "Saray",
+        "Hövsan"
+      ],
+      "location": [
+        "Xırdalan",
+        "Masazır",
+        "Sumqayıt",
+        "Saray",
+        "Hövsan"
+      ]
+    },
+    "sent_ads": [
+      "https://bina.az/items/5072419",
+      "https://tap.az/elanlar/dasinmaz-emlak/menziller/44248296",
+      "https://bina.az/items/5060976",
+      "https://bina.az/items/5025004",
+      "https://bina.az/items/5069167",
+      "https://bina.az/items/5064354",
+      "https://bina.az/items/5072522",
+      "https://bina.az/items/5072483",
+      "https://bina.az/items/5072470",
+      "https://bina.az/items/5072468",
+      "https://bina.az/items/4827376",
+      "https://bina.az/items/5068506",
+      "https://bina.az/items/5004847",
+      "https://bina.az/items/4987803",
+      "https://tap.az/elanlar/dasinmaz-emlak/menziller/44242876",
+      "https://bina.az/items/5068547",
+      "https://bina.az/items/5072653",
+      "https://bina.az/items/5072638",
+      "https://bina.az/items/5072628",
+      "https://bina.az/items/4630659",
+      "https://bina.az/items/5072609",
+      "https://bina.az/items/4582109",
+      "https://bina.az/items/5047100",
+      "https://bina.az/items/5071816",
+      "https://bina.az/items/5062688",
+      "https://bina.az/items/5072711",
+      "https://tap.az/elanlar/dasinmaz-emlak/menziller/44013844",
+      "https://bina.az/items/5049260",
+      "https://tap.az/elanlar/dasinmaz-emlak/menziller/44249130",
+      "https://tap.az/elanlar/dasinmaz-emlak/menziller/44249154",
+      "https://tap.az/elanlar/dasinmaz-emlak/menziller/44238084",
+      "https://tap.az/elanlar/dasinmaz-emlak/menziller/44249229",
+      "https://bina.az/items/5072814",
+      "https://tap.az/elanlar/dasinmaz-emlak/menziller/44249278",
+      "https://tap.az/elanlar/dasinmaz-emlak/menziller/44249355"
+    ],
+    "active_chat_id": 820480342,
+    "auto_check": {
+      "enabled": true,
+      "interval": 60,
+      "active_chat_id": 820480342
+    }
+  },
+  "5196046465": {
+    "urls": {
+      "tap_az": "https://tap.az/elanlar/dasinmaz-emlak/menziller?keywords_source=typewritten&order=&q%5Buser_id%5D=&q%5Bcontact_id%5D=&q%5Bprice%5D%5B%5D=300&q%5Bprice%5D%5B%5D=500&p%5B740%5D=3724&p%5B994%5D=38046&p%5B747%5D=&p%5B737%5D%5B%5D=50&p%5B737%5D%5B%5D=&p%5B736%5D%5B%5D=2&p%5B736%5D%5B%5D=&q%5Bregion_id%5D=&q%5Bkeywords%5D=&q%5Bregion_id%5D=&q%5Bkeywords%5D=&q%5Bregion_id%5D=&q%5Bkeywords%5D=&q%5Bregion_id%5D=&q%5Bkeywords%5D=",
+      "bina_az": "https://bina.az/alqi-satqi/menziller/kiraye?location=6&min_price=300&max_price=500&min_area=50&room_count=2"
+    },
+    "filters": {
+      "title": [],
+      "location": []
+    },
+    "sent_ads": []
+  }
+}
